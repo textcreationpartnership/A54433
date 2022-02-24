@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Immanuel the salvation of Israel the word of the Lord came unto me the twelfth day of the sixth month, in the year accounted, 1657, concerning the Jews and scattered tribes of Israel, as I was waiting upon the Lord in spirit, in Legorne in Italy, which in the name of the Lord I give forth to be copied, and sent throughout the world / written by ... J.P.</title>
+            <author>J. P. (John Perrot), d. 1671?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54433</idno>
+            <idno type="STC">Wing P1620</idno>
+            <idno type="STC">ESTC R40666</idno>
+            <idno type="EEBO-CITATION">12558910</idno>
+            <idno type="OCLC">ocm 12558910</idno>
+            <idno type="VID">63132</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54433)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63132)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 701:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Immanuel the salvation of Israel the word of the Lord came unto me the twelfth day of the sixth month, in the year accounted, 1657, concerning the Jews and scattered tribes of Israel, as I was waiting upon the Lord in spirit, in Legorne in Italy, which in the name of the Lord I give forth to be copied, and sent throughout the world / written by ... J.P.</title>
+                  <author>J. P. (John Perrot), d. 1671?</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Appears in his A visitation of love ... London, 1660.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jewish diaspora.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63132:1"/>
+            <pb facs="tcp:63132:1" rendition="simple:additions"/>
+            <p>Immanuel The Salvation of ISRAEL. The Word of the Lord came unto me the twelfth day of the ſixth Month, in the year accounted, 1657. concerning the <hi>Jews</hi> and ſcattered Tribes of <hi>ISRAEL,</hi> As I was waiting upon the Lord in ſpirit, in <hi>Legorne</hi> in <hi>Italy,</hi> which in the Name of the Lord I give forth to be copied, and ſent throughout the World.</p>
+            <q>
+               <p>Written by a lover of Righteouſneſſe, a mourner over the ſcattered Tribes, a ſeeker of the loſt, that the Remnant may be ſaved,</p>
+               <bibl>
+                  <hi>J. P.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the ſigne of the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:63132:2"/>
+            <pb n="1" facs="tcp:63132:2"/>
+            <head>The word of the Commandment of the Lord to his Servant concerning the ſcattered Jews in Italy, Spain, Portugal, France Holland, and the reſt of the Regions, and every Iſland throughout the Earth and the Seas, to write theſe words follow<g ref="char:EOLhyphen"/>ing to them all.</head>
+            <p>WHether you will hear, or forbear, this is the word of the Lord God unto all you ſcattered Jews throughout the whole Earth, God of a truth is ariſen to gather unto himſelf his peculiar Seed, from the four winds of the Earth,
+<note place="margin">Iſa <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 25. Jer. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 7.8. Jer. 14, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ezek 4<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>end.</hi>
+               </note> that <hi>Jacob</hi> may poſſeſſe and inhabit his inheritance, and the Seed of <hi>Iſrael</hi> the Holy Land.</p>
+            <p>And according to the Prophets, he hath began at the North, and is ſtreching, and hath ſtreched forth his Arm over the South, and over the Eaſt, and over the Weſt.</p>
+            <p>And behold it cometh to paſs, and is at hand, and not as a day afar off, but even nigh unto the door, that the Lord will ſeparate of all Nations, both Jew, and Gentile, the juſt from the vile, him that feareth God, from him that feareh him not; him that keepeth the Law of God which is written in his heart, (through the ſan<g ref="char:EOLhyphen"/>ctification thereof by the power of the Lord ruling in his conſci<g ref="char:EOLhyphen"/>ence, mind, ſpirit and life from him that in words which profeſ<g ref="char:EOLhyphen"/>ſeth God, and his Law and Statutes, and ordinances, and yet walks in his life and daily practices, contrary to the Law written in the heart, which God ſpake unto <hi>Moſes</hi> ſaying,
+<note place="margin">De<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 14; <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> 
+               <hi>The word is nigh thee, in thy mouth and in thy heart, that thou mayeſt do it,</hi> See, <hi>I have ſet before thee this day life and good, death and evil.</hi>
+            </p>
+            <p>And unto ye, Oh Jews is the ſame come, and before you, in the Name of the Lord coming unto you, do I ſet life and death, light and darkneſſe, in this the day of the Lord, which is dawn<g ref="char:EOLhyphen"/>ed
+<pb n="2" facs="tcp:63132:3"/>unto a meaſure of the Remnant, even in this day which is light and not darkneſſe, wherein the promiſe of God is fulfilled, and it came to paſs according to the Prophefie, <hi>in a day when it was neither night nor day,
+<milestone type="tcpmilestone" unit="unspecified" n="14"/> neither dark nor light, but in the evening it was a little light.</hi>
+            </p>
+            <p>And not as from the traditions of my forefathers, or the ge<g ref="char:EOLhyphen"/>nerations of men in the corrupt and polluted nature, in the de<g ref="char:EOLhyphen"/>generation from God, and alienation from the Covenant of life and promiſe: (who confeſſed the Meſſiah as this generation doth, to be come in words, with their corrupted tongues, and polluted lips, but in their works, and by their practiſe and life, make his coming void, and of non-effect unto them) neither by the reading of the Scriptures came I to know that he was come as he is come, but by the ſpirit of the Lord, (by which I was cho<g ref="char:EOLhyphen"/>ſen in the womb, and ſanctified in the day of my birth, by which alſo I am ſeperated from the Land of my natural nativity, and brought unto the feeling of ſorrows in a ſtrange Land for your ſakes) I come to know, and now to declare unto you, that <hi>Im<g ref="char:EOLhyphen"/>manuel,</hi> who is God with us, who is the light of the world, the Meſſiah in the power of God, who is a ſpirit, is come reigning in ſpirit in the hearts of his people, over whom, and in whom he rules as King, treading down, and trampling upon all principa<g ref="char:EOLhyphen"/>lities and powers, making the Earth new, and the Heavens alſo, warring againſt all which is contrary to his own pure nature, in many, until he hath put all his enemies under his feet, and then will he give up the Kingdome to the Father, that God may be all in all.</p>
+            <p>And for this cauſe alſo, even for your ſakes (who are of moſt men deſpiſed in heart) I paſs as one deſolate, and deſpiſed, and hated and mocked of many, and many more of the nation of my naturall birth would gladly have my blood; yet am I not forſaken of him that ſent me with his meſſage unto you of ſalva<g ref="char:EOLhyphen"/>tion, and everlaſting glad tidings of Redemption.</p>
+            <p>And now he that hath an ear, let him hear, and a heart to perceive, let him underſtand.</p>
+            <p>Be it known unto you all, That God hath more regard to your ſouls then that you ſhould periſh in your ſins, and your ſouls is more precious in his eye (for which he hath ordained life ever<g ref="char:EOLhyphen"/>laſting,
+<pb n="3" facs="tcp:63132:3"/>for as many as come to believe) then the pleaſure and eaſe of your corrupt carcaſes, which are to rot in Graves and Sepulchres.</p>
+            <p>And therefore for the Lord to regain his own Image which is loſt in man through fall in the tranſgreſſion, and to r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtore man unto the ſame uprightneſs, where in man was created which was the promiſe of God unto man in this wiſe, <hi>the ſeed of the woman ſhall bruiſe the Serpents head.</hi>
+            </p>
+            <p>Behold unto you it is given forth and declared, for the re<g ref="char:EOLhyphen"/>demption and reſtauration of the ſeed, the <hi>Meſſiah</hi> came, and now is coming the ſecond time without ſin unto ſalvation, even he cometh now in ſpirit and in power, who was the Rock whom your Fathers in the Wilderneſs forſook; and the light of the world whom your Fathers ſlew at <hi>Ier<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſalem,</hi> which brought a grievous curſe upon you of being a people troden upon by all the world, and not onely ſo, but the moſt lamentable thing and curſe which is over you, for which cauſe my ſoul mourns for you, that ſuch cruel hard-heartedneſs, diſtruſt, doubt, jea<g ref="char:EOLhyphen"/>louſies and unbelief, coveting, fraud, deceit, diſſimulation, and Hypocriſie hath vailed your hearts, and groſſely darkned your underſtandings.</p>
+            <p>Oh that is the worſt of all! that is the greateſt curſe, in how much throughout ages, the <hi>Iews</hi> have been given over unto vile affections, hard-heartedneſs, ſinn and unbelief; which is the cauſe why ye cannot rightly ſpeak of the things of God, and underſtand the Prophets writings which were ſpoken,
+<note place="margin">Ezek 2.</note> and do ſtand as myſteries, yea deep myſteries to your thick hearts, your underſtandings being covered as with a thick cloud of darkneſs,
+<note place="margin">Hoſ. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 9. Jer. 2<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jer. 3<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jer. 3<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> (which now we the ſeed <hi>Abraham,</hi> of the true <hi>Iew</hi> inwardly, do walk by the light thereof as a Pillar of fire by night) and there<g ref="char:EOLhyphen"/>fore ſaid the Lord by his Prophet, <hi>for want of knowledge my people periſh.</hi>
+            </p>
+            <p>The Prophets they propheſied of the <hi>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſiah</hi> to come in ſpi<g ref="char:EOLhyphen"/>rit, in a myſtery to the whole world <hi>Iew</hi> and Gentile, ſo that when he came he was not received but by the Remnant in them dayes, as he is received now in theſe dayes; but unto whom the ſpirit of wiſdome and underſtanding was given, to read and underſtand that which the Prophets ſpake forth in Parables,
+<pb n="4" facs="tcp:63132:4"/>to the whole world of mankind,
+<milestone type="tcpmilestone" unit="unspecified" n="20"/> which lay in ſin and wick<g ref="char:EOLhyphen"/>edneſs.</p>
+            <p>And therefore ye <hi>Iews</hi> now in theſe dayes, ye ought not to ſpeak of God, or to name his name in perverſneſſe, whileſt ye ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to be reformed in your hearts, minds and ſpirits, but ye ought to hear the Meſſage of the Lord God, and to ponder it in your hearts, that you may ſee how farre ye are yet from the Promiſe, being not come in truth, in ſpirit and in life, unto the condition thereof fulfilled and made up in you, untill which ye cannot juſtly expect the fulfilling of the promiſe unto you in the ſubſtance.</p>
+            <p>For whileſt you are in your ſins, as your Fathers were in their ſins in the day that they ſlew Jeſus at <hi>Ieruſalem,</hi> you cannot but as men in the fleſh, look with any other than an eye of fleſh, for a God of fleſh to come among you, and to ſave you by the Arm of fleſh. Oh blind and ſottiſh, of dull ears and dark underſtandings! and ſo could not your Fathers, neither can you now as you ſtand, ſee him that cometh to ranſome the ſeed in ſpirit and in power.</p>
+            <p>Behold none other but <hi>Immanuel</hi> the <hi>Meſſiah</hi> which is God with us, the light of the world that is come unto us, and is paſſing through the whole world, who will ſmite the earth with the Rod of his mouth, and with the breath of his lips he ſhall ſlay the wicked.
+<note place="margin">1.4.</note>
+            </p>
+            <p>Now this is wiſdome, to know and underſtand that birth and nature of the wicked in you, and to feel the power of that breath in you, thereby to taſte of the pangs of that ſlaughter in you, and then ye will witneſs the <hi>Meſſiah</hi> come in you in ſpirit,
+<note place="margin">
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1.2. <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e. 3.</note> and in wiſdome, and in a deep and quick underſtanding, making the Heavens new in you, and the earth new in you, as <hi>Solomon</hi> ſaith, <hi>God hath ſet the world in mans heart,</hi> wherefore man cannot find out the work that God maketh from the be<g ref="char:EOLhyphen"/>ginning to the end thereof; he that hath an ear to hear, and heart to underſtand, may now come to diſcern and read (Na<g ref="char:EOLhyphen"/>tions, Kingdoms, Countries, Armies, <hi>Philiſtines, Egypti<g ref="char:EOLhyphen"/>ans, Aliens,</hi> the ſeed of the <hi>Iew,</hi> and the generation of the Gentile) in him, Mountains, heaps of Stons, <hi>Sodom</hi> Built, and <hi>Gomorrah</hi> fenced, <hi>Ieruſalem</hi> trodden down, <hi>Zion</hi> and her
+<pb n="5" facs="tcp:63132:4"/>Daughter in bondage, and her ſeed in great Captivity, lamen<g ref="char:EOLhyphen"/>ting as in ſolitary places, left and forſaken as in a wilderneſſe, and as a Virgin Daughter in a ſtrange land altogether left com<g ref="char:EOLhyphen"/>fortleſſe, the poor, the widow and the fatherleſſe, the blind, the halt, and the maimed, all left without pity; I ſay, ſearch your hearts in ſecret, and ſee if this be not truth, the light of <hi>Immanuel,</hi> anſwering in all your conſciences and hidden parts.</p>
+            <p>Again, I ſay wait upon God, with your minds ſtaid upon the light in all your conſciences, and thereby God will ſhew you, even by the coming of his ſon Ieſus the <hi>Meſſiah</hi> the light of the World, the fulfilling of the Law and of the Prophets in you, (that is to ſay, thou ſhalt love the Lord thy God with all thine heart, with all thy mind, and with all thy ſoul, and thy Neighbour as thy ſelfe,) this is the ſum and ſubſtance of all, which the light in all your conſciences if ye follow it in your minds, will perfectly lead to the fulfilling of; and then ye will know that <hi>Immanuel</hi> the light of the World, came not to de<g ref="char:EOLhyphen"/>ſtroy the Law but to fulfill the Law; that the righteouſneſſe of the Law might be fulfilled in us, who walk not after the fleſh but after the ſpirit; which is according to the leadings of the light in all our conſciences, and this is from the Lord both to the Iew and the Gentile.</p>
+            <p>Furthermore to the ſcattered Tribes of the houſe of <hi>Iſrael,</hi> this is the word of the Lord God of Heaven and Earth, who is the God of <hi>Abraham, Iſaac</hi> and <hi>Jacob,</hi> who by a mighty hand and out-ſtretched arm, by the hand of <hi>Moſes</hi> his Prophet and Meſſenger unto the ſeed in Bondage in great Captivity, brought the children of <hi>Iſrael</hi> out of the land of <hi>Egypt:</hi> Even vnto you Oh ye <hi>Iews</hi> this is the word of the dreadfull Lord God of Hoſts, and as a ſign unto you, and among you, and in you, it ſhall ſtand unto the end of your dayes, if you periſh in unbeliefe and in your ſins; that the <hi>Meſſiah</hi> is come, Jeſus whom your Fathers ſlew through unbelief and hard-heartedneſſe in their dayes, who ſlew him for ſaying in words, that which they them<g ref="char:EOLhyphen"/>ſelves did own concerning themſelves in the ſubſtance, ac<g ref="char:EOLhyphen"/>cording to their profeſſion, that is to ſay, he declared that he was the Son of God, and therefore they put him to death
+<pb n="6" facs="tcp:63132:5"/>as a Blaſphemer, and they ſaid that God was their Father, yet were in their wilfulneſſe ſo far blinded that they could not diſcern that their words in manner of the declaration, tended to the ſame thing, and was of the ſame nature, and this ſhall ſtand the ſign thereof unto the end, if ye periſh in unbelief to your perpetuall judgment, that he hath lightned you all with his true light which ſhineth in all your conſcences, which ſheweth you in ſecret the deceitfulneſſe of your hearts, and convinceth you in your minds, of lying, cheating, coveting, envy and of all ſin and unrighteouſneſſe, (which is not ac<g ref="char:EOLhyphen"/>cording to the Law of God, written in your hearts, this ſign) the light in your conſciences ſhall never dye in you, which all your burning Lamps, and waſhings, and Altars, and vails, and holieſt of holieſt, and all the other ceremonies were but ſigns and ſigures and ſhadows of this everlaſting ſigne and ſub<g ref="char:EOLhyphen"/>ſtance, which ſhall perpetually ſtand to juſtifie you if you love it, and follow it, and walk according to it, or to condemne you for evermore if ye hate it, and walk contrary to it.</p>
+            <p>And be it alſo known unto you, that if you expect another <hi>Meſſiah</hi> then him that is come (which is <hi>Immanuel,</hi> God with us in ſpirit and in life and power) leading out of ſin, the land of bondage and darkneſſe, and in vertue, and in wiſedome, and in counſel, and in judgment, not judging according to the ſeeing of the eye, or hearing of the eare, but with righteous judgment in ſpirit, who ſearcheth every ſpirit, and the bottome of every heart with his light in every conſcience; ye are but <hi>Seekers</hi> unto this day for fleſh to come, yet farther to be an eaſe unto your fleſh, and to purchaſe more eaſe and liberty for your fleſh, in which ſtate ye already ſtand, even in the eaſe and luſt of the fleſh, which God Almighty by the coming of his Son will deſtroy, for becauſe of ſin and iniquitie, and men living in the eaſe and luſt of the fleſh, the Lord God will haſten judge<g ref="char:EOLhyphen"/>ment upon the earth.</p>
+            <p>Now conſider, ſearch and ſee, ponder it and lay it to heart, that you may know what you have waited for; that you may underſtand whether you have waited and ſought for the true thing to come to paſs, that henceforth ye may ſeek aright, elſe you may all waite till your limbs fails you, and your eyes periſh
+<pb n="7" facs="tcp:63132:5"/>in their holes, and in the end you fail of the expectation and ful<g ref="char:EOLhyphen"/>filling of your vain conceptions, and blind imaginations; wait therefore in ſpirit in humility of heart, that <hi>Immanuel</hi> the light of the World, Ieſus the <hi>Meſſiah,</hi> by whom ye are lightened, ye may come to know and feel the power of his light in your con<g ref="char:EOLhyphen"/>ſciences, by it leading you out of all your ſinnes and iniquities, which is Satans bond, the Devils chain of darkneſſe, linking you together in hard-heartedneſſe, and binding you in the luſts, ceremonies, cuſtomes, and traditions of blindneſs and igno<g ref="char:EOLhyphen"/>rance, thereby ruling in your minds and ſpirits,
+<note place="margin">Iſa. 28.</note> that knowing him, ye may alſo know by him the breaking of the bonds of Hell, and the diſanulling of the Covenant, which is made with death, &amp; ye ſet at liberty in life and ſpirit,
+<note place="margin">Hab. 1.13.</note> to ſerve the Lord God of life who is a ſpirit (and of purer eyes than to behold iniquity or countenance ſinners in their evil wayes) in the uprightneſs of your hearts and integrity of your ſouls, that ye may be made unto him the praiſe of his name throughout the whole earth, ac<g ref="char:EOLhyphen"/>cording to his promiſe, that ſo ye may deſcern and feel the curſe removed and taken from you, which for many ages paſt, hath ſtood upon the heads of the generations of your forefathers, and remains unto this time upon you, untill the eye of your minds which the God of this world hath blinded, be opened by the <hi>Meſſiah,</hi>
+               <note place="margin">Iſa 42.7.</note> which is come and coming to open the eye of the blind, and to give the ſimple an underſtanding to diſcern the day of redemption,
+<note place="margin">Iſa. 35.8.</note> and to be made partaker of his hour of ſalva<g ref="char:EOLhyphen"/>tion, which is held and hid in a myſtery, who is appointed for a way, and to be a high way for the ranſomed of the Lord, ſuch as the wayfaring men, though fools ſhall not erre therein.</p>
+            <p>Oh how do I mourn! Oh how do I travel as in pain and great grief and ſorrow for your ſakes O ye <hi>Iews!</hi> reading, ſeeing and feeling, that darknes which is over your hearts, even the ſame which was, and is in <hi>Egypt</hi> (Spiritual <hi>Sodom</hi> and <hi>Egypt</hi>) even ſuch thick darkneſs as may be felt.</p>
+            <p>Oh why do ye yet in your hearts ſeek murther? Why ſay and contend ye for more blood? Seeing the ſlaughtered Lamb is a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ready come, whom you ſay is to come, and not yet come; for if he were to come, whom I declare in the name of the Lord
+<pb n="8" facs="tcp:63132:6"/>is already come, behold your generation are to be his ſlaughter<g ref="char:EOLhyphen"/>ers, and the ſhedders of his innocent blood, for the fulfilling of the Prophets, that by the offering of his blood once for all, he may for ever perfect them whom God ſanctifies, read <hi>Iſa.</hi> 53. <hi>Chapter,</hi> which is fulfilled, and ſee how far you put our ſelves from ſalvation, by ſeeking yet cruelty &amp; murder in your hearts, which your unbelief and wilfulneſſe is the ground of.</p>
+            <p>How many ſigns would ye have? ye have heared how many were ſhewed unto <hi>Pharoah,</hi> yet would not he let <hi>Iſrael</hi> go free, and will ye have, or do ye ſeek greater then the Sun to be dark<g ref="char:EOLhyphen"/>ned,
+<note place="margin">Joe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2 31.</note> and the Moon not to give her light, and the ſtars of hea<g ref="char:EOLhyphen"/>ven to fall? and is not this manifeſt unto thouſands? And can<g ref="char:EOLhyphen"/>not you yet read within? Will you ſay that you believe all that the Prophets have written? Or can you ſay ſo, and ſpeak truth, whileſt you have not that ſpirit by which the Prophets writ forth the Scriptures? Or could your Fathers underſtand the wri<g ref="char:EOLhyphen"/>tings of the Prophets, who wickedly perſecuted and ſlew the Prophets? Nay, nay.</p>
+            <p>Behold this is the word of the Lord unto you all, Ieſus the <hi>Meſſiah</hi> hath caſt his Rod before <hi>Pharoah,</hi> the Prince of darkneſs in you, and it is become a ſerpent which woundeth you in ſecret (I ſpeak unto you that have any ſenſe or the leaſt feeling of God) and it devours your rods, yea and will eat your life, and will bring all the plagues of <hi>Pharaoh</hi> upon you, (for as much as your unbelief is but his ſin) untill deſtruction unto death as a flood overwhelms you, except ye repent, that God may be intrea<g ref="char:EOLhyphen"/>ted for you.</p>
+            <p>And know ye that God hath been long ſuffering, and now ſheweth his mercy in this viſitation of his love unto you, ſhew<g ref="char:EOLhyphen"/>ing you the <hi>Meſſiah</hi> which is come,
+<note place="margin">Iſa. 49.6.</note> and hath lightened you, and is the light of the Gentiles alſo, that he may be the ſalvation of God unto the ends of the earth.
+<note place="margin">Iſa. 60.1.13.19.</note>
+            </p>
+            <p>Of a truth from this ye cannot be hid, neither can ye in righ<g ref="char:EOLhyphen"/>teouſneſſe deny but that ye are lightned with the light of the world,
+<note place="margin">Iſa. 42.6.</note> which is <hi>Immanuel</hi> the light of the Gentilies, which al<g ref="char:EOLhyphen"/>ſo enlightneth the underſtanding of the <hi>Iews,</hi> elſe could not the <hi>Iews</hi> unto this day underſtand that <hi>Moſes</hi> was a Prophet of
+<pb n="9" facs="tcp:63132:6"/>the Lord, for he was and is the ſame, even the word from the beginning, which God ſaid unto <hi>Moſes</hi> is nigh thee, in thy mouth, and in thy heart, which ſhewed him the Law to be nigh, and not to be ſought for from a ſtrange Land, by which the children of <hi>Iſrael</hi> were condemned for their ſins, ſo that the guilt thereof ſtood upon their heads from year to yeare, as in like manner the guilt of your tranſgreſſions ſtands unto this day upon your heads, which your ſacrifices cannot clear you in your conſciences from, for it is impoſſible that the carnall things can make ſatiſfaction unto inſinite juſtice, which ſtandeth over, and meaſureth all tranſgreſſion, and therefore ſaith the Prophet, <hi>Wherewith ſhall I come before the Lard?
+<note place="margin">Mic. 6.6.7.8.</note> and bow my ſelfe before the high God? ſhall I come before him with burnt offerings, with calves of a year old? Will the Lord be pleaſed with thouſands of Rams? Or with ten thouſand Rivers of oyl? Shall I give my firſt borne for my tranſgreſſion, the fruits of my body, for the ſin of my ſoul?</hi> He hath ſhewed thee O man what is good, and what doth the Lord require of thee? but to do juſtly, to love mercy, and to walk humbly with thy God.</p>
+            <p>In this ye are all concluded with the great idolaters of the earth, and with the <hi>Arminans</hi> and heathens alſo, they have their Images without, that is to ſay, beads, eroſſes, p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctures, veſſels, and herein the <hi>Iews</hi> in the nature are alſo one with them, who have their ſynagogues, and veſſels, and Offerings, and knows not him whom you imagine you make offerings unto, and theſe are offerings of ſtrange fire unto the Lord, for which cauſe God hath not regard unto your ſerviers;
+<note place="margin">Jer. 2.3</note> for your Fathers forſook the fountain of living mercies in their dayes, and then he ſpake by the mouth of his Prophet, ſaying <hi>who hath required theſe things at your hands? your ſolemn meetings are abomination unto me.</hi>
+            </p>
+            <p>And ye are now in the ſame footſteps of your forefathers in the corrupted way of ſin,
+<note place="margin">Iſa. 1.11 12, 13, 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and blind path of hard-heartedneſs and unbelief, and yet ye ſay, ye worſhip God aright; and further<g ref="char:EOLhyphen"/>more this is your great ſin and dangerous evil, as other profeſſi<g ref="char:EOLhyphen"/>ons, have their abominable Idolatries in the ſhew without, your Idols are ſet up in your hearts, and ye put the ſtumbling block of your iniquity before your face; read diligently with true un<g ref="char:EOLhyphen"/>derſtanding, <hi>Iſa.</hi> 8.14.15.
+<note place="margin">Ezek. 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 4.</note> and marke your ſtumbling offence and fall.</p>
+            <pb n="10" facs="tcp:63132:7"/>
+            <p>And with you in the ſame nature all the <hi>Proteſtants, Preſbyte<g ref="char:EOLhyphen"/>rians, I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dependants, Baptiſts, Seekers, Ranters,</hi> and the reſt called Chriſtians in general do worſhip, although you and they are all divers in the Traditions of your and their Fathers in the manner of the practiſing your ſervices, yet in the ſubſtance, you are but one, that is to ſay, <hi>Cains</hi> nature ruling in you all, who offered a ſacrifice and killed the juſt in him; he killed juſt <hi>Abel</hi> without him, and that nature which murdered <hi>Abel</hi> with<g ref="char:EOLhyphen"/>out him ſlew the juſt within him, and ſo your ſeverall words, and diverſities of opinions, which ſtands but in the ſha<g ref="char:EOLhyphen"/>dow, is not at all that which makes a difference, in the ground and ſubſtance, being all but in one nature of tranſgreſſion, and way of the ungodly in unrighteouſneſs; and you cannot one ſtain or ſpot another, or take glory unto your ſelves over ano<g ref="char:EOLhyphen"/>ther, ſeeing the beſt of all your ſects upon the face of the earth, are but ſpeckled beaſts, and parti-coloured birds, and not one of you all are come into the way of the promiſe of God, which is come to paſs, wherein the ranſomed of the Lord ſhall onely walk, and no unclean thing can tread therein.</p>
+            <p>
+               <hi>And as for us who are the remnant of God, and his ſeed gathered to his honour, praiſe, infinite, endleſſe, everlaſting glory; all ungodli<g ref="char:EOLhyphen"/>neſs and worldly luſts our life abhors, and we are the redeemed of the Lord, through the purchaſe of the blood of</hi> Immanuel, <hi>the light with us, and in us, by which we are kept in the pure fear of the Lord God e<g ref="char:EOLhyphen"/>ternal, to ſpread his name among you, unto whom alſo the promiſe is, that the ſeed ſhall be gathered.</hi>
+            </p>
+            <p>
+               <hi>God hath begun in the north Iſlands to perfect his praiſe throughhout the earth; and becauſe the Lord hath redemeed us from Nations, Kindreds, Countries, tongues and people, we are diſpiſed of all Nations, both</hi> Iew <hi>and</hi> Gentile, <hi>and of the ſcornfull people of our own Nation</hi> England, <hi>are called</hi> Quakers, <hi>who are the Servants of the Lord in ſpirit.</hi>
+            </p>
+            <closer>
+               <signed>This is written by an upright tender lover of all ſouls,
+John Perrot.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:63132:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
